@@ -1,0 +1,72 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Pages', url: 'pages/posts'}
+- {name: 'About', url: 'pages/about'}
+- {name: 'Contact', url: 'pages/contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Class website for Purchase College course Special Projects in Tiny Computing, Fall 2019 '
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: ''
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'namegoeshere'
+
+#-------------------------------
+# About Section
+
+about: >
+  # Minimal Uni
+
+  Minimal Uni is the base class website structure for my current university courses. The course repo can be found and downloaded or forked from [here](https://github.com/lee2sman/minimal-uni).
+
+  The theme is meant to be modified. Add new sub-pages inside ```_posts````. To make new top-level navigation pages, place markdown or html inside the pages directory. At the very least, change the title and the text on ```index.md``` and ```pages/about.md```. Modify the border color of the frame around the page and text and accent colors inside ```_data/layout.yml```.
+
+  Created by [Lee Tusman](http://leetusman.com).
+
+  This theme is licensed under [The Anti-Capitalist Software License](https://anticapitalist.software/). The text on this page is served from ```_data/settings.yml```.
+
+contact: >
+  # Contact
+
+  You may contact Lee through [email](mailto:lee.tusmanATpurchase.edu) if you have any questions or would like to bring up any issues.
+
+#-------------------------------
+# Work Section
+
+projects:
+# To list project pages, uncomment the following lines and add these files!
+#- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
+#- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
+#- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
+
+#-------------------------------
+# Contact Section
+
+social:
+#- {icon: 'twitter', link: '#'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
