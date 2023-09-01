@@ -3,16 +3,11 @@ layout: page
 title: Home
 ---
 
-Minimal Uni is a base structure that can be used to create a website for a college class, or a personal blog, wiki or other website.
 
- The repo can be found and downloaded or forked from [here](https://github.com/lee2sman/minimal-uni).
+Programming For Visual Artists, fall 2023, at Purchase College New Media.
 
-It is built on [Jekyll](https://jekyllrb.com/) static site builder, hosted on GitHub pages. The theme is meant to be modified. At the very least, change the title and the text on index.md and pages/about.md. Modify the border color of the frame around the page and text and accent colors inside ```_data/layout.yml```.
+# Course Vision
 
-Created by [Lee Tusman](http://leetusman.com).
-
-This theme is licensed under [The Anti-Capitalist Software License](https://anticapitalist.software/).
-
-The text on this page is served from ```index.md```
+Programming for Visual Artists introduces code as a medium to create interactive visual art. We will explore the evolving history of new media and software art. You will be encouraged to push the edges of art into new and unknown territory. We will learn the basics of programming with the JavaScript library p5.js through in-class lectures, demonstrations and exercises. We will study a diverse community of artists and approaches, and we will take an expansive view of how programming can be used as a tool to create new forms of art. Outside of class, students will have weekly readings, video tutorials, writing prompts and programming assignments. The goal is to be able to get to a level of proficiency where code becomes a tool for you to make art and to integrate into your total artistic practice.
 
 {% include footer.html %}

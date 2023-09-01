@@ -7,3 +7,24 @@ layout: default
     {{ content }}
   </div>
 </section>
+
+
+<style>
+#logo
+{
+    position:fixed;
+    bottom:1%;
+    right:1%;
+    width:15%; 
+}
+</style>
+
+<img src="{{ site.baseurl }}/assets/img/0.png" id="logo" onclick="changeImg();">
+<script>
+
+const logo = document.getElementById("logo");
+function changeImg(){
+  logo.src="{{ site.baseurl }}/assets/img/"+Math.floor(Math.random()*20)+".png";
+}
+</script>
+

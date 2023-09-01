@@ -13,12 +13,12 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		      "Minimal Uni, A Pleasant Jekyll Theme"
-description:	      "This is the base jekyll website template for my university courses, also convenient for a blog or wiki."
+title:		      "Programming for Visual Artists"
+description:	      "Course website for Programming for Visual Artists at Purchase College, fall 2023."
 author:              "Lee Tusman"
 
 
-baseurl: "/minimal-university" # the subpath of your site, e.g. /blog
+baseurl: "/p4va_fall2023" # the subpath of your site, e.g. /blog
 url: "https://leetusman.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 2sman2sman
 github_username:  lee2sman

@@ -12,7 +12,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Class website for Purchase College course Special Projects in Tiny Computing, Fall 2019 '
+  description: 'Class website for Purchase College course Programming for Visual Artists, fall 2023 '
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
@@ -39,15 +39,11 @@ disqus:
 # About Section
 
 about: >
-  # Minimal Uni
+  # Programming For Visual Artists
+  
+  Programming for Visual Artists introduces code as a medium to create interactive visual art. Students explore the evolving history of new media and software art and are encouraged to push the edges of art into new and unknown territory. The course is taught with p5.js, a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else. We will study a diverse community of artists and approaches, and we will take an expansive view of how programming can be used as a tool to create new forms of art. Outside of class, students will have weekly readings, video tutorials, writing prompts and programming assignments. The goal is to be able to get to a level of proficiency where code becomes a tool for you to make art and to integrate into your total artistic practice.
 
-  Minimal Uni is the base class website structure for my current university courses. The course repo can be found and downloaded or forked from [here](https://github.com/lee2sman/minimal-uni).
-
-  The theme is meant to be modified. Add new sub-pages inside ```_posts````. To make new top-level navigation pages, place markdown or html inside the pages directory. At the very least, change the title and the text on ```index.md``` and ```pages/about.md```. Modify the border color of the frame around the page and text and accent colors inside ```_data/layout.yml```.
-
-  Created by [Lee Tusman](http://leetusman.com).
-
-  This theme is licensed under [The Anti-Capitalist Software License](https://anticapitalist.software/). The text on this page is served from ```_data/settings.yml```.
+  Taught by [Lee Tusman](http://leetusman.com).
 
 contact: >
   # Contact
