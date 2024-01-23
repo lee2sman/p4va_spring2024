@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-Programming For Visual Artists, fall 2023, at Purchase College New Media.
+Programming For Visual Artists, Spring 2024, at Purchase College New Media.
 
 # Course Vision
 
