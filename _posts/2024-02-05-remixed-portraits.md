@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Homework Gallery: Remixed portrait projects"
-date: 2023-09-09
+date: 2023-09-12
 ---
 
 ## Week 2 remixed and randomized portraits
